@@ -1,6 +1,6 @@
-# RSGA
+# Reciprocal Space Gated Attention
 
-Reciprocal Space Gated Attention.
+
 
 This repository contains the core RSGA modules used to introduce a reciprocal-space long-range correction into a short-range local model.
 
