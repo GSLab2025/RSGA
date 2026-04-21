@@ -4,6 +4,10 @@ message: "If you use this software, please cite it using this metadata or the Ze
 type: software
 license: MIT
 authors:
+  - family-names: Thakur
+    given-names: Atul C.
+  - family-names: Vazquez-Mayagoitia
+    given-names: Alvaro
   - family-names: Sivaraman
     given-names: Ganesh
 repository-code: "https://github.com/GSLab2025/RSGA"
