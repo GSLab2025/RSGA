@@ -50,7 +50,7 @@ The high-level integration pattern there is:
 Example entry point in the modified MACE stack:
 
 ```bash
-mace_run_train --model=MACERSGA ...
+mace_run_train --model="MACERSGA" --pair_repulsion  --distance_transform="Agnesi"  ...
 ```
 
 This repository focuses on the reusable RSGA method itself, while `GSLab2025/MACE_RSGA` shows one concrete end-to-end integration into a modified MACE codebase.
