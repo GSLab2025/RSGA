@@ -18,7 +18,8 @@ abstract: >-
   into short-range local models, with a pointer to the integrated
   GSLab2025/MACE_RSGA variant.
 keywords:
-  - reciprocal-space attention
+  - reciprocal-space gated attention
+  - gated linear attention
   - long-range interactions
   - machine learning interatomic potentials
   - MACE
